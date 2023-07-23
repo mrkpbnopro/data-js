@@ -1,1 +1,1 @@
-
+die("Hệ Thống Đang Nâng Cấp Ae vui lòng chờ nha\n");
