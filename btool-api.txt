@@ -5,5 +5,4 @@ cin.btool.co.in
 let.btool.co.in	
 min.btool.co.in	
 sbu.btool.co.in	
-sss.btool.co.in	
-vio.btool.co.in	
+sss.btool.co.in
