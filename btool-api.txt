@@ -1,3 +1,4 @@
-sv3-bto.btool.co.in
-sv5-bto.btool.co.in
 connect-sever-v1.btoolapp.com
+connect-sever-v2.btoolapp.com
+connect-sever-v3.btoolapp.com
+connect-sever-v4.btoolapp.com
